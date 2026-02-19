@@ -4,6 +4,9 @@ A data analytics capstone project focused on **UK road accident data (2021–202
 
 ---
 
+<img width="840" height="476" alt="image" src="https://github.com/user-attachments/assets/5036da6a-1bd4-4b2a-b51a-2c206149facd" />
+
+
 ## 📌 Project Overview
 
 This project analyzes **10,000 UK road accident records** to identify **structural and predictable risk patterns** affecting public road safety. Using spreadsheet-based analytics and an interactive dashboard, raw accident data is converted into actionable insights for infrastructure planning and safety decision-making.
