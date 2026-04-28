@@ -4,7 +4,7 @@ A data analytics capstone project focused on **UK road accident data (2021–202
 
 ---
 
-<img width="840" height="476" alt="image" src="https://github.com/user-attachments/assets/5036da6a-1bd4-4b2a-b51a-2c206149facd" />
+<img width="840" height="477" alt="image" src="https://github.com/user-attachments/assets/5036da6a-1bd4-4b2a-b51a-2c206149facd" />
 
 
 ## 📌 Project Overview
